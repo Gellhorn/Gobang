@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/palyMusic"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="音乐播放"/>
+    <item
+        android:id="@+id/stopMusic"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="音乐暂停"/>
+
+</menu>
